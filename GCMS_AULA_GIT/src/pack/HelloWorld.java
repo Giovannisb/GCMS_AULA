@@ -6,5 +6,6 @@ public class HelloWorld {
 		System.out.println("mudando...");
 		System.out.println("Agora vai");
 		System.out.println("atualizado!!");
+		System.out.println("vazio");
 	}
 }
